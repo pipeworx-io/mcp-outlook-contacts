@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-outlook-contacts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Outlook Contacts (Microsoft 365) MCP Pack",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "outlook-contacts",
     "gatewaySlug": "outlook_contacts",
-    "sourceHash": "v1-9c0a81fdf26b93380eaf6abaeb0c79778a48a98cde1fbbac2a124d3885ec0041",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-8b816f6fdf8ce7cd9f129cc93d4dc72d7110dd31377b96f8a52881d5713a50c9",
+    "sourceCommit": "243a06a6ca2d3b6075325f3b66a1468d0a2eb603"
   }
 }
